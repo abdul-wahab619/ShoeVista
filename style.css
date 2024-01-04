@@ -489,3 +489,52 @@ section .main .button:hover i {
   line-height: 22px;
   margin-top: 15px;
 }
+
+/*Services*/
+
+.services {
+  width: 70%;
+  margin: 100px auto;
+  text-align: center;
+  padding: 80px 0 10px 0;
+}
+
+.services h1 {
+  font-size: 60px;
+  text-transform: uppercase;
+}
+
+.services h1 span {
+  margin-left: 15px;
+  background: linear-gradient(to left, #c72092, #6c14d0);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.services .services_cards {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  top: 50px;
+}
+
+.services .services_box i {
+  font-size: 60px;
+  color: orange;
+  margin: 20px 0;
+  cursor: pointer;
+}
+
+.services .services_box h3 {
+  margin-bottom: 12px;
+  font-size: 19px;
+}
+
+.services .services_box p {
+  text-align: center;
+  color: #919191;
+  margin-bottom: 60px;
+}
