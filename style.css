@@ -790,3 +790,12 @@ footer .footer_main .tag .search_bar button {
   color: white;
   cursor: pointer;
 }
+p.copyright {
+    width: 100%;
+    color: #000000;
+    line-height: 60px;
+    font-weight: bold;
+    font-size: 0.9em;
+    text-align: center;
+    bottom:0;
+}
