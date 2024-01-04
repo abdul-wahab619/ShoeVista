@@ -131,7 +131,6 @@ section .main .social_icon i:hover {
 section .main .button {
   position: absolute;
   left: 6%;
-  margin-top: 500px;
   padding: 10px 20px;
   border-radius: 30px;
   background: linear-gradient(to right, #c72092, #6c14d0);
