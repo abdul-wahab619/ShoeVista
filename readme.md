@@ -39,7 +39,7 @@ We welcome contributions from the community to make ShoeVista even better! If yo
 2. **Clone the Repository:** Clone your forked repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/ShoeVista.git
+    git clone https://github.com/abdul-wahab619/ShoeVista.git
     ```
 
 3. **Create a New Branch:** Create a new branch for your contributions:
