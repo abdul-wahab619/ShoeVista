@@ -844,32 +844,3 @@ section .main .button {
     margin-top: 20px;
   }
 }
-
-@media only screen and (min-width: 900px) {
-  /* Desktop Styles */
-
-  /* Add your desktop-specific styles here */
-  section nav .logo {
-    left: -4%;
-  }
-
-  section .main .main_content .main_text h1 {
-    font-size: 60px;
-    line-height: 50px;
-  }
-
-  section .main .main_content .main_text p {
-    width: 600px;
-  }
-
-  section .main .main_content .main_image img {
-    width: 650px;
-    margin: 75px 0;
-  }
-
-  section .main .button {
-    left: 6%;
-  }
-}
-
-/* Add more media queries for larger screens if needed */
